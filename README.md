@@ -1,1 +1,1 @@
-# Picture-to-Pencil-Sketch
+# Picture-to-Pencil-Sketch is a simple computer vision project that transforms a regular image into a pencil sketch-like representation using Python and OpenCV. The project applies several image processing techniques to achieve the sketch effect.
